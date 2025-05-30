@@ -46,7 +46,7 @@ Need help? Check out our [Contributing Guide](https://github.com/EjazCodeLab/you
 Stay connected:
 - 🌐 [Website](#) (coming soon)
 - 📘 [Facebook Page](https://facebook.com/ejazdevworks)
-- 📘 [Instagram](https://instagram/@ejazali__dev)
+- 📘 [Instagram](https://instagram.com/@ejazali__dev)
 
 ---
 
